@@ -9,7 +9,7 @@ services:
     name: light-agent
     runtime: python
     plan: free
-    repo: https://github.com/clodecode2026-debug/light-agent
+    repo: https://github.com/roman-agent-jpg/cloud-coach
     branch: main
 
     buildCommand: pip install -r requirements.txt
